@@ -9,8 +9,6 @@ Actualisation des Free Cash Flows sur plusieurs années
 
 Calcul du WACC, de la valeur terminale, de l’EV et de l’Equity Value
 
-Script simple, reproductible et inspiré des modèles utilisés en finance d’entreprise
-
 🧮 Méthodes financières utilisées
 
 Actualisation des flux :
